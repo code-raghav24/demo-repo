@@ -1,6 +1,5 @@
 ## Demo of knowing git
-Added line number 1
-Added line number 2
+removed two lines here
 ### This is subheading
 Working area
 staging area
